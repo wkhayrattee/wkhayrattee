@@ -17,7 +17,7 @@ If it matters:
 I was [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/) and I was also featured on one of the famous PHP magazine, namely **the PHP[architect] magazine**, for their November 2021 edition - [you can read the intro here!](https://www.phparch.com/article/community-corner-interview-with-wasseem-khayrattee/).
 
 ---
-### My Local Dev Stack
+### My Dev Stack
 <div align="center">
     <img src="https://img.shields.io/badge/-PHP-blueviolet?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=PHP" alt="PHP">
     <img src="https://img.shields.io/badge/-APACHE-blueviolet?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=APACHE" alt="APACHE">
@@ -25,11 +25,14 @@ I was [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/)
     <img src="https://img.shields.io/badge/-MariaDB-blueviolet?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=MariaDB" alt="MARIADB">
     <img src="https://img.shields.io/badge/-ANSIBLE-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=ANSIBLE" alt="ANSIBLE">
     <img src="https://img.shields.io/badge/-PhusionOS-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=UBUNTU" alt="Phusion OS">
+</div>
+<div align="center">
     <img src="https://img.shields.io/badge/-VAGRANT-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=VAGRANT" alt="VAGRANT">
     <img src="https://img.shields.io/badge/-DOCKER-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=DOCKER" alt="DOCKER">
     <img src="https://img.shields.io/badge/-VirtualBox-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=VIRTUALBOX" alt="VIRTUALBOX">
     <img src="https://img.shields.io/badge/-PhpStorm-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=PhpStorm" alt="PhpStorm">
     <img src="https://img.shields.io/badge/-macOS-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=macOS" alt="macOS">
+    <img src="https://img.shields.io/badge/-ZSH-green?logoColor=white&style=plastic&color=9cf&labelColor=blueviolet&logo=GNOME Terminal" alt="ZSH">
 </div>
 
 ---
