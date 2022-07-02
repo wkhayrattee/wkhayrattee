@@ -41,6 +41,12 @@ I was [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/)
 - Podcasting at **VoicesOftheElePHPant** - I hosted 7+1 episodes for them during the period September 7,2021 to December 17, 2021 talking with [Matthew Weier O’Phinney](https://github.com/weierophinney), [Michael Kimsal](https://github.com/mgkimsal), [Michael Bodnarchuk](https://github.com/DavertMik), [Mike Stowe](https://github.com/mikestowe), [Derick Rethans](https://github.com/derickr), [Dana Luther](https://github.com/DanaLuther) and [Ben Ramsey](https://github.com/ramsey). And as a cohost (with [Cal Evans](https://github.com/calevans)) for my 8th episode with **the PHP Foundation Team** featuring [Joe Watkins](https://github.com/krakjoe), [Sarah Golemon](https://github.com/sgolemon) and [Sebastian Bergmann](https://github.com/sebastianbergmann).
 
 ---
+
+### Talk I Gave
+
+- [The Fellowship Of The PHP Community (Comference 2021)](https://www.youtube.com/watch?v=e3Rp6eqT6ZQ)
+
+---
 <div align="center">
 
 ![wkhayrattee Github Stats](https://github-readme-stats.vercel.app/api?username=wkhayrattee&theme=monokai&show_icons=true)
