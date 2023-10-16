@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Wasseem Khayrattee** - mostly known to my PHP circles as **'7PHP'**. I live on the beautiful island named as **Mauritius**.
+My name is [**Wasseem Khayrattee**](https://wk.contact) - mostly known to my PHP circles as **'7PHP'**. I live on the beautiful island named as **Mauritius**.
 
 I have a BSc(Hons) in Information technology, with over 15 years of professional experience in Web/Digital world - most of which has been PHP-based all the way. 
 
