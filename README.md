@@ -1,20 +1,23 @@
-### Hi there 👋
+### Hey there 👋
 
-My name is [**Wasseem Khayrattee**](https://wk.contact) - mostly known to my PHP circles as **'7PHP'**. I live on the beautiful island named as **Mauritius**.
+My name is [**Wasseem Khayrattee**](https://wk.contact) - mostly known to my PHP circles as: [**7PHP**](https://twitter.com/7php). I call the stunning island of [**Mauritius**](https://en.wikipedia.org/wiki/Mauritius) my home.
 
-I have a BSc(Hons) in Information technology, with over 15 years of professional experience in Web/Digital world - most of which has been PHP-based all the way. 
+With a BSc(Hons) in Information Technology and over 15 years of professional experience in the digital realm, I've been deeply immersed in the PHP universe throughout my journey.
 
-I have been focusing on WordPress & its ecosystem (including WooCommerce) for the last 6yrs: 
-- creating plugins
-- syncing data to APIs from WordPress
-- architecturing WordPress systems - I use my [WordPress with Composer approach](https://github.com/wkhayrattee/wordpress-with-composer) (a close attempt to meet the 12-factor approach)
-- handling deployments with zero-downtime strategy (heavy bash scripting and python-based scripting using Fab)
-- handling the DevOPs aspects - hosting WordPress on VPS; both from scratch using DigitalOcean cloud, as well as Managed hosting using **Kinsta** and **WPEngine**.
-- automating the provisioning process using Ansible & partly Terraform
+While my WordPress adventure began in 2006 when I adopted it as my go-to self-hosted blogging platform, the past 8 years have seen me laser-focused on honing my development skills within the WordPress and WooCommerce ecosystem. Here's a snapshot of what I've been up to:
 
-If it matters:
+* 🔌 Crafting plugins that enhance WordPress functionality.
+* 🎨 Extending themes to create visually stunning websites.
+* 🌐 Syncing data seamlessly between WordPress and various APIs.
+* 🏗️ Architecting robust WordPress systems – I've even devised my own [WordPress with Composer approach](https://github.com/wkhayrattee/wordpress-with-composer), inspired by the 12-factor methodology.
+* 🚀 Managing deployments with a zero-downtime strategy; my toolkit includes heavy bash scripting and Python-based scripts using Fab.
+* 🛠️ Overseeing DevOps aspects – from setting up WordPress on VPS, whether it's building from scratch on DigitalOcean's cloud or opting for managed hosting through Kinsta and WPEngine.
+* 🤖 Automating provisioning processes using a blend of bash scripting, Ansible, and partially Terraform.
 
-I was [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/) and I was also featured on one of the famous PHP magazine, namely **the PHP[architect] magazine**, for their November 2021 edition - [you can read the intro here!](https://www.phparch.com/article/community-corner-interview-with-wasseem-khayrattee/).
+
+And in case you're curious:
+
+I had the privilege of being [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/). I was also featured in the renowned PHP[architect] magazine, gracing their November 2021 edition – you can [catch a glimpse of it here](https://www.phparch.com/article/community-corner-interview-with-wasseem-khayrattee/)!
 
 ---
 ### My Dev Stack
@@ -49,16 +52,18 @@ I was [interviewed here](https://hostnoc.com/interview-with-wasseem-khayrattee/)
 
 - [The Fellowship Of The PHP Community (Comference 2021)](https://www.youtube.com/watch?v=e3Rp6eqT6ZQ)
 
+<!--
 ---
-<div align="center">
+ <div align="center">
 
 ![wkhayrattee Github Stats](https://github-readme-stats.vercel.app/api?username=wkhayrattee&theme=monokai&show_icons=true)
 
-</div>
+</div> 
+-->
 
 ---
 
-### My WordPress and PHP Projects pinned below:
+### Some of My WordPress & PHP Projects pinned below:
 
 <!-- leaving the below for history/reference
 **wkhayrattee/wkhayrattee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
